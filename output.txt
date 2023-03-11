@@ -1,0 +1,174 @@
+Hello World
+color_hist=True, Edge_Detection=False, HOG_Descriptor=False 
+
+fit time of MultinomialNB is 0.09s
+val
+Top-1 Accuracy on the val data is 0.0622
+Top-5 Accuracy on the val data is 0.1289
+test
+Top-1 Accuracy on the test data is 0.0467
+Top-5 Accuracy on the test data is 0.1356
+
+fit time of xgboost is 102.1s
+val
+Top-1 Accuracy on the val data is 0.1089
+Top-5 Accuracy on the val data is 0.3111
+test
+Top-1 Accuracy on the test data is 0.0733
+Top-5 Accuracy on the test data is 0.2467
+
+fit time of Random Forest is 153.53s  
+val
+Top-1 Accuracy on the val data is 0.1133
+Top-5 Accuracy on the val data is 0.3156
+test
+Top-1 Accuracy on the test data is 0.0756
+Top-5 Accuracy on the test data is 0.24
+
+
+
+Hello World
+color_hist=False, Edge_Detection=True, HOG_Descriptor=False 
+
+fit time of MultinomialNB is 0.11s
+val
+Top-1 Accuracy on the val data is 0.0489
+Top-5 Accuracy on the val data is 0.1711
+test
+Top-1 Accuracy on the test data is 0.0378
+Top-5 Accuracy on the test data is 0.16
+
+fit time of xgboost is 87.33s
+val
+Top-1 Accuracy on the val data is 0.0422
+Top-5 Accuracy on the val data is 0.1822
+test
+Top-1 Accuracy on the test data is 0.04
+Top-5 Accuracy on the test data is 0.1667
+
+fit time of Random Forest is 18.45s  
+val
+Top-1 Accuracy on the val data is 0.0356
+Top-5 Accuracy on the val data is 0.1267
+test
+Top-1 Accuracy on the test data is 0.0289
+Top-5 Accuracy on the test data is 0.1356
+
+
+
+Hello World
+color_hist=False, Edge_Detection=False, HOG_Descriptor=True 
+
+fit time of MultinomialNB is 0.14s
+val
+Top-1 Accuracy on the val data is 0.0667
+Top-5 Accuracy on the val data is 0.2667
+test
+Top-1 Accuracy on the test data is 0.0778
+Top-5 Accuracy on the test data is 0.2644
+
+fit time of xgboost is 525.79s
+val
+Top-1 Accuracy on the val data is 0.0844
+Top-5 Accuracy on the val data is 0.3222
+test
+Top-1 Accuracy on the test data is 0.1156
+Top-5 Accuracy on the test data is 0.3533
+
+fit time of Random Forest is 435.37s  
+val
+Top-1 Accuracy on the val data is 0.0711
+Top-5 Accuracy on the val data is 0.2467
+test
+Top-1 Accuracy on the test data is 0.08
+Top-5 Accuracy on the test data is 0.2867
+
+
+
+Hello World
+color_hist=True, Edge_Detection=True, HOG_Descriptor=False 
+
+fit time of MultinomialNB is 0.13s
+val
+Top-1 Accuracy on the val data is 0.0622
+Top-5 Accuracy on the val data is 0.1356
+test
+Top-1 Accuracy on the test data is 0.0533
+Top-5 Accuracy on the test data is 0.1311
+
+fit time of xgboost is 179.01s
+val
+Top-1 Accuracy on the val data is 0.1044
+Top-5 Accuracy on the val data is 0.3356
+test
+Top-1 Accuracy on the test data is 0.0756
+Top-5 Accuracy on the test data is 0.2533
+
+fit time of Random Forest is 116.12s  
+val
+Top-1 Accuracy on the val data is 0.0956
+Top-5 Accuracy on the val data is 0.2978
+test
+Top-1 Accuracy on the test data is 0.0711
+Top-5 Accuracy on the test data is 0.2267
+
+
+
+Hello World
+color_hist=True, Edge_Detection=False, HOG_Descriptor=True 
+
+fit time of MultinomialNB is 0.15s
+val
+Top-1 Accuracy on the val data is 0.0622
+Top-5 Accuracy on the val data is 0.1289
+test
+Top-1 Accuracy on the test data is 0.0467
+Top-5 Accuracy on the test data is 0.1356
+
+fit time of xgboost is 610.02s
+val
+Top-1 Accuracy on the val data is 0.1378
+Top-5 Accuracy on the val data is 0.4111
+test
+Top-1 Accuracy on the test data is 0.1222
+Top-5 Accuracy on the test data is 0.3733
+
+fit time of Random Forest is 416.41s  
+val
+Top-1 Accuracy on the val data is 0.1089
+Top-5 Accuracy on the val data is 0.2978
+test
+Top-1 Accuracy on the test data is 0.0978
+Top-5 Accuracy on the test data is 0.2867
+
+
+
+Hello World
+color_hist=False, Edge_Detection=True, HOG_Descriptor=True 
+
+fit time of MultinomialNB is 0.18s
+val
+Top-1 Accuracy on the val data is 0.0511
+Top-5 Accuracy on the val data is 0.1756
+test
+Top-1 Accuracy on the test data is 0.04
+Top-5 Accuracy on the test data is 0.1622
+
+fit time of xgboost is 1026.13s
+val
+Top-1 Accuracy on the val data is 0.0911
+Top-5 Accuracy on the val data is 0.3089
+test
+Top-1 Accuracy on the test data is 0.1267
+Top-5 Accuracy on the test data is 0.3333
+
+fit time of Random Forest is 365.55s  
+val
+Top-1 Accuracy on the val data is 0.0822
+Top-5 Accuracy on the val data is 0.28
+test
+Top-1 Accuracy on the test data is 0.0711
+Top-5 Accuracy on the test data is 0.2333
+
+
+
